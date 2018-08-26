@@ -1,8 +1,0 @@
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Debug\NetworkSpeedCheck.exe.config
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Debug\NetworkSpeedCheck.exe
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Debug\NetworkSpeedCheck.pdb
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Debug\NetworkSpeedCheck.csproj.CoreCompileInputs.cache
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Debug\NetworkSpeedCheck.exe
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Debug\NetworkSpeedCheck.pdb
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Debug\IPList.txt
-C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Debug\NetworkSpeedCheck.csprojAssemblyReference.cache
