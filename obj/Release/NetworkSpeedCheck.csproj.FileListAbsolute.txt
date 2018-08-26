@@ -1,0 +1,7 @@
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Release\IPList.txt
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Release\NetworkSpeedCheck.exe.config
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Release\NetworkSpeedCheck.exe
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\bin\Release\NetworkSpeedCheck.pdb
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Release\NetworkSpeedCheck.csproj.CoreCompileInputs.cache
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Release\NetworkSpeedCheck.exe
+C:\Users\aiki6\source\repos\NetworkSpeedCheck\NetworkSpeedCheck\obj\Release\NetworkSpeedCheck.pdb
